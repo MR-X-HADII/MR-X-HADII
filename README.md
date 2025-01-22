@@ -27,9 +27,11 @@
 ### The best thing is to support me directly by donating to any address from the list below:
 
 
-- **[0x37F87294B82207c22721F5675cFFBBfa53E6845b](https://etherscan.io/address/0x37F87294B82207c22721F5675cFFBBfa53E6845b)** or [officercia.eth](0x37F87294B82207c22721F5675cFFBBfa53E6845b#tokentxns) — Ethereum;
+- **[0x37F87294B82207c22721F5675cFFBBfa53E6845b](https://etherscan.io/address/0x37F87294B82207c22721F5675cFFBBfa53E6845b)** — Ethereum;
 
-- **[bc1pqrgw75237n7krjh6adrtms98wrtwywqwdnmz4yupxk3qhus6qq4s0ws4q3](https://blockchair.com/bitcoin/address/bc1pqrgw75237n7krjh6adrtms98wrtwywqwdnmz4yupxk3qhus6qq4s0ws4q3) - Bitcoin 
+- **
+TGLrDZ4kZFFJYCRaZNc6avf78eVHwiX9AD
+ — TRX
 - 
 
 ## **Thank you! Stay safe!**
