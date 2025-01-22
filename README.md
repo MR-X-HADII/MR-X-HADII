@@ -22,5 +22,14 @@
 <a href="https://github.com/MR-X-HADII/ddos"><img title="PREMIUMV2" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-X-HADI&repo=ddos&theme=vision-friendly-dark"></a>
 
 #### Donate :
+## Support
 
-<a href="https://sociabuzz.com/123345/tribe"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="80" height="80"></a> &nbsp;&nbsp;
+### The best thing is to support me directly by donating to any address from the list below:
+
+
+- **[0x37F87294B82207c22721F5675cFFBBfa53E6845b](https://etherscan.io/address/0x37F87294B82207c22721F5675cFFBBfa53E6845b)** or [officercia.eth](0x37F87294B82207c22721F5675cFFBBfa53E6845b#tokentxns) — Ethereum;
+
+- **[bc1pqrgw75237n7krjh6adrtms98wrtwywqwdnmz4yupxk3qhus6qq4s0ws4q3](https://blockchair.com/bitcoin/address/bc1pqrgw75237n7krjh6adrtms98wrtwywqwdnmz4yupxk3qhus6qq4s0ws4q3) - Bitcoin 
+- 
+
+## **Thank you! Stay safe!**
